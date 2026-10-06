@@ -1,0 +1,229 @@
+.container{
+    display: flex;
+    background-color: rgb(243, 243, 243);
+    flex-direction: row;
+    gap: 80px;
+
+
+}
+
+.conect{
+    border-color: rgb(168, 168, 169);
+    border-style: inherit;
+    height: 400px;
+    width: 250px;
+    box-shadow: 50px;
+padding-right: 20px;
+}
+
+.image1{
+ width: 210px;
+ height: 230px;
+ border-radius: 10px;
+ border-color: rgb(218, 212, 223);
+ border-style: solid;
+ 
+ 
+}
+.title{
+    line-height: 1/5;
+    text-align: justify;
+
+}
+.main{
+    display: flex;
+
+}
+.number{
+    border-radius: 5px;
+    border-color: rgb(163, 163, 244);
+    border-style: solid;
+    width: 30px;
+    display: inline-block;
+    color: rgb(174, 174, 209);
+    background-color: rgb(128, 128, 196)
+}
+.del{
+    text-decoration: line-through;
+    color: rgb(172, 168, 170);
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: -21px;
+    margin-top: 10px;
+}
+.conect1{
+     display: flex;
+     justify-content: space-between;
+}
+.price{
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.sac{
+    display: inline-block;
+    list-style-image: url("https://icongr.am/jam/star-full.svg?size=16&color=faf205");
+}
+
+
+.conect2{
+    border-color: rgb(168, 168, 169);
+    border-style: inherit;
+    height: 400px;
+    width: 250px;
+    box-shadow: 50px;
+}
+
+.conect3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image2{
+ width: 210px;
+ height: 230px;
+ border-radius: 10px;
+ border-color: rgb(218, 212, 223);
+ border-style: solid;
+ 
+}
+.title2{
+    line-height: 1/5;
+    text-align: justify;
+
+}
+
+.main2{
+    display: flex;
+
+}
+.number2{
+    border-radius: 5px;
+    border-color: rgb(163, 163, 244);
+    border-style: solid;
+    width: 30px;
+    display: inline-block;
+    color: rgb(174, 174, 209);
+    background-color: rgb(128, 128, 196)
+}
+.del2{
+    text-decoration: line-through;
+    color: rgb(172, 168, 170);
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: -21px;
+    margin-top: 10px;
+}
+
+.sac2{
+    display: inline-block;
+    list-style-image: url("https://icongr.am/jam/star-full.svg?size=16&color=faf205");
+}
+
+.image3{
+ width: 210px;
+ height: 230px;
+ border-radius: 10px;
+ border-color: rgb(218, 212, 223);
+ border-style: solid;
+ 
+}
+.title3{
+    line-height: 1/5;
+    text-align: justify;
+
+}
+
+.main3{
+    display: flex;
+
+}
+.number3{
+    border-radius: 5px;
+    border-color: rgb(163, 163, 244);
+    border-style: solid;
+    width: 30px;
+    display: inline-block;
+    color: rgb(174, 174, 209);
+    background-color: rgb(128, 128, 196)
+}
+.del3{
+    text-decoration: line-through;
+    color: rgb(172, 168, 170);
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: -21px;
+    margin-top: 10px;
+}
+
+.sac3{
+    display: inline-block;
+    list-style-image: url("https://icongr.am/jam/star-full.svg?size=16&color=faf205");
+}
+
+.conect4{
+    border-color: rgb(168, 168, 169);
+    border-style: inherit;
+    height: 400px;
+    width: 250px;
+    box-shadow: 50px;
+}
+.conect5{
+    display: flex;
+    justify-content: space-between;}
+
+
+    .conect6{
+        border-color: rgb(168, 168, 169);
+        border-style: inherit;
+        height: 400px;
+        width: 250px;
+        box-shadow: 50px;
+    }
+    .conect7{
+        display: flex;
+        justify-content: space-between;
+    }
+.image4{
+ width: 210px;
+ height: 230px;
+ border-radius: 10px;
+ border-color: rgb(218, 212, 223);
+ border-style: solid;
+ 
+}
+.title4{
+    line-height: 1/5;
+    text-align: justify;
+
+}
+
+.main4{
+    display: flex;
+
+}
+.number4{
+    border-radius: 5px;
+    border-color: rgb(163, 163, 244);
+    border-style: solid;
+    width: 30px;
+    display: inline-block;
+    color: rgb(174, 174, 209);
+    background-color: rgb(128, 128, 196)
+}
+.del4{
+    text-decoration: line-through;
+    color: rgb(172, 168, 170);
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: -21px;
+    margin-top: 10px;
+}
+
+.sac4{
+    display: inline-block;
+    list-style-image: url(<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+<path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" />
+  </svg>
+  );
+}
